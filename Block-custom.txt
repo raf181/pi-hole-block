@@ -4,21 +4,23 @@
 #
 # ------------------------------------[FILTERS]-------------------------------------
 # ------------------------------------[Social-Media]--------------------------------
-0.0.0.0 discord.com
-0.0.0.0 instagram.com
-0.0.0.0 twitter.com
-0.0.0.0 snapchat.com
+discord.com
+instagram.com
+twitter.com
+snapchat.com
+whatsapp.com
 
 # ------------------------------------[Media]----------------------------------------
-0.0.0.0 netflix.com
-0.0.0.0 disneyplus.com
-0.0.0.0 primevideo.com
-# 0.0.0.0 youtube.com
-0.0.0.0 hbomax.com
+netflix.com
+disneyplus.com
+primevideo.com
+# youtube.com
+hbomax.com
+pinterest.com
 
 # ------------------------------------[Game]-----------------------------------------
-0.0.0.0 roblox.com
+roblox.com
 
 # ------------------------------------[Server]---------------------------------------
-# 0.0.0.0 192.168.0.37
-# 0.0.0.0 192.168.0.198
+# 192.168.0.37
+# 192.168.0.198
