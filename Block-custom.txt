@@ -14,7 +14,7 @@ whatsapp.com
 netflix.com
 disneyplus.com
 primevideo.com
-# youtube.com
+youtube.com
 hbomax.com
 pinterest.com
 
