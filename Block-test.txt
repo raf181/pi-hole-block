@@ -1,3 +1,13 @@
 # ------------------------------------[Block test]---------------------------------------
 browser.sentry-cdn.com
 appmetrica.yandex.ru
+api.mouseflow.com
+tools.mouseflow.com
+api.luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+browser.sentry-cdn.com
+app.getsentry.com
+widgets.pinterest.com
+events.reddit.com
+appmetrica.yandex.ru
