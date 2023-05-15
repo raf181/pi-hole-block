@@ -22,7 +22,9 @@ pinterest.com
 roblox.com
 assetdelivery.roblox.com
 thumbnails.roblox.com
-
+realtime.roblox.com
+friends.roblox.com
+ephemeralcounters.api.roblox.com
 # ------------------------------------[Server]---------------------------------------
 # 192.168.0.37
 # 192.168.0.198
