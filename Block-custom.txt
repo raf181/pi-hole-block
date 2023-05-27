@@ -17,6 +17,7 @@ primevideo.com
 youtube.com
 hbomax.com
 pinterest.com
+spotify.com
 
 # ------------------------------------[Game]-----------------------------------------
 roblox.com
